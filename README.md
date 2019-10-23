@@ -3,6 +3,10 @@
 In this repository, we will be using Godot and learning new scripts and nodes. In this repository, we will be able to have two objects, a paddle and a ball, and then be able to apply collisions on the two. In the end, we will be able to have a scene in Godot, that will have the ball flying around and when it hits the wall, it will bounce away, and likewise for the paddle. My repository does work and should.
 
 
+
+
+
+
 This is the first Godot exercise for BL-MSCH-C220. As usual, Fork and Clone this repository.
 
 Here are instructions for your first experience with the Godot engine:
